@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="420"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ3ODBpZTZ0Y2xrdmttbGpmZ29vdmVycThldXRyenJ3a3c4Y3FzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vd8V1PpBe1Jr3SNP1d/giphy.gif" width="420"/>
 </p>
 
 <h1 align="center">Hi, I'm Evgenii 👋</h1>
@@ -112,7 +112,7 @@ Working remotely worldwide 🌍
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNicThyYTBoY2JvejEyMHFvd2twejdqNnQxNnRidGNiamhoM3dreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNicThyYTBoY2JvejEyMHFvd2twejdqNnQxNnRidGNiamhoM3dreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
 </p>
 
 <div align="center">
