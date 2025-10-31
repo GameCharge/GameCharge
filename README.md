@@ -1,19 +1,23 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9k3gFQ9Cm9zxOxy/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="420"/>
 </p>
 
 <h1 align="center">Hi, I'm Evgenii 👋</h1>
 <p align="center">Full-stack Developer • UI/UX Designer • Tech Enthusiast</p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9cf&center=true&vCenter=true&width=500&lines=Clean+UX+Focus;React+Ecosystem;Product+Design;Automation+%26+Tooling;Modern+Web+Technologies;Pixel-perfect+Interfaces"/>
+</div>
+
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a passionate developer focused on clean UX, modern web technologies and smooth product experiences.  
-I build mobile apps, desktop tools, websites, backend systems and automation workflows.
+I’m a developer focused on clean interfaces, consistent UX and functional digital products.  
+I build mobile apps, desktop tools, backend systems, websites & automation pipelines — ensuring experience feels seamless.
 
-Currently based in Europe, working remotely worldwide.
+Working remotely worldwide 🌍
 
 ---
 
@@ -22,22 +26,20 @@ Currently based in Europe, working remotely worldwide.
 **2020 — 2021 — YerTech, Kazakhstan — Junior Web Developer**
 - Landing pages & corporate sites
 - UI/UX improvements
-- HTML / CSS / JS work
-- Design systems basics
+- HTML / CSS / JS
+- Design system fundamentals
 
-**2021 — 2024 — LuvaGames, United Kingdom — Mid-level React Developer**
-- React SPA development
-- UI architecture
+**2021 — 2024 — LuvaGames, United Kingdom — React Developer**
+- SPA architecture
 - Performance optimization
 - Component libraries
-- Team collaboration
+- Cross-team collaboration
 
-**2024 — Present — Crypto Hub, Poland — Senior Designer & React Developer**
-- Complex UI design
-- React frontend development & maintenance
-- Web dashboards for crypto projects
-- Product UX consistency
-- Visual identity & brand guidelines
+**2024 — Present — Crypto Hub, Poland — Designer & React Developer**
+- Complex crypto dashboards
+- UX design consistency
+- Frontend maintenance & scalability
+- Visual identity & design systems
 
 ---
 
@@ -71,51 +73,48 @@ Currently based in Europe, working remotely worldwide.
 
 ### 🚀 Highlights
 
-- Built commercial React Native mobile apps
-- Created CRM systems with payment integrations
-- Desktop apps using Electron
-- Bots & automation with Python (aiogram)
-- Parsing/integration into apps
-- Production-level UI components
+- Commercial mobile apps on React Native
+- CRM systems with billing/payment integrations
+- Desktop tools powered by Electron
+- Automation bots using Python (Aiogram)
+- Complex parsing & service integration
+- Production-grade reusable UI components
 
 ---
 
 ### 🎮 Currently Working On
 
-- SSas CRM for Small Businesses — transforming internal client processes through sales automation, real-time analytics, modular billing, payment system integrations, and conversion optimization across support and sales departments
-- CryptoAppHub — building a scalable platform for crypto asset mining and management: optimized algorithms, profitability monitoring, wallet security enhancements, and a frictionless UX tailored for a broad market
-- UI Component Library — establishing a unified design system to accelerate development speed, improve interface consistency, and reduce long-term product maintenance costs
----
+- **SSas CRM for Small Businesses** — sales automation, real-time analytics, modular billing & payment integrations
+- **CryptoAppHub** — scalable mining + profitability tracking, wallet security and UX optimization
+- **UI Component Library** — unified ecosystem to improve consistency and cut development time
 
 ---
 
-### ✨ Daily Coding Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+### 🌀 Philosophy
+
+> “Software should feel effortless — clean, predictable, invisible.”
 
 ---
 
-### 📈 Productivity Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-</p>
+### 🎯 Interests
+
+- UI systems & atomic design
+- Accessibility
+- Complex dashboards
+- Crypto web tooling
+- DX improvements
 
 ---
-
-### 🌀 Activity Snake
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
-
----
-
 
 ### 🤙 Contacts
-- Telegram: @username
-- Email: yourmail@example.com
+- **Telegram:** @miusskii
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
 </p>
-<p align="center">Coding with style.</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00f3ba&center=true&vCenter=true&width=500&lines=Coding+with+style.;Designing+with+intention.;Delivering+with+precision."/>
+</div>
