@@ -87,13 +87,18 @@ Currently based in Europe, working remotely worldwide.
 - UI Component Library — establishing a unified design system to accelerate development speed, improve interface consistency, and reduce long-term product maintenance costs
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+---
+
+### ✨ Daily Coding Wisdom
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+---
+
+### 📈 Productivity Heatmap
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -102,6 +107,7 @@ Currently based in Europe, working remotely worldwide.
 <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
+
 
 ### 🤙 Contacts
 - Telegram: @username
