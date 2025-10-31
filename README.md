@@ -82,11 +82,9 @@ Currently based in Europe, working remotely worldwide.
 
 ### 🎮 Currently Working On
 
-- Solar system simulation (SFML)
-- Arcade mobile mini-game *Pilot on Survival*
-- UI component libraries
-- Modern crypto dashboards
-
+- SSas CRM for Small Businesses — transforming internal client processes through sales automation, real-time analytics, modular billing, payment system integrations, and conversion optimization across support and sales departments
+- CryptoAppHub — building a scalable platform for crypto asset mining and management: optimized algorithms, profitability monitoring, wallet security enhancements, and a frictionless UX tailored for a broad market
+- UI Component Library — establishing a unified design system to accelerate development speed, improve interface consistency, and reduce long-term product maintenance costs
 ---
 
 ### 📊 GitHub Stats
