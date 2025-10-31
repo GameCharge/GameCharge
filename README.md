@@ -112,7 +112,7 @@ Working remotely worldwide 🌍
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNicThyYTBoY2JvejEyMHFvd2twejdqNnQxNnRidGNiamhoM3dreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" width="200"/>
 </p>
 
 <div align="center">
