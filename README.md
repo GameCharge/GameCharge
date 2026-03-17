@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Evgenii 👋</h1>
-<p align="center">Full-stack Developer • UI/UX Designer • Tech Enthusiast</p>
+<p align="center">Full-stack Engineer • Product Designer • Systems Builder</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9cf&center=true&vCenter=true&width=500&lines=Clean+UX+Focus;React+Ecosystem;Product+Design;Automation+%26+Tooling;Modern+Web+Technologies;Pixel-perfect+Interfaces"/>
@@ -14,34 +14,65 @@
 
 ### 🧑‍💻 About Me
 
-I’m a developer focused on clean interfaces, consistent UX and functional digital products.  
-I build mobile apps, desktop tools, backend systems, websites & automation pipelines — ensuring experience feels seamless.
+I build scalable digital products with a strong focus on UX, performance and system architecture.
+From idea to production — I design, develop and launch full-cycle solutions including web platforms, mobile apps, backend systems and automation tools.
+Focused on clean design, high performance and real business impact.
 
-Working remotely worldwide 🌍
+---
+
+## 🛠 Services
+
+- Full-stack Web Development (React / Next.js / Node.js)
+- Mobile App Development (React Native)
+- Telegram / MAX Bots & Mini Apps
+- SaaS & CRM Systems
+- UI/UX Design & Design Systems
+- API & Backend Architecture
+
+💬 Open for freelance & collaboration
 
 ---
 
-### 🏢 Experience
+## 💼 Experience
 
-**2020 — 2021 — YerTech, Kazakhstan — Junior Web Developer**
-- Landing pages & corporate sites
-- UI/UX improvements
-- HTML / CSS / JS
-- Design system fundamentals
-
-**2021 — 2024 — LuvaGames, United Kingdom — React Developer**
-- SPA architecture
-- Performance optimization
-- Component libraries
-- Cross-team collaboration
-
-**2024 — Present — Crypto Hub, Poland — Designer & React Developer**
-- Complex crypto dashboards
-- UX design consistency
-- Frontend maintenance & scalability
-- Visual identity & design systems
+### YerTech (Kazakhstan)
+**Junior Web Developer**  
+*2020 — 2021*  
+- Landing pages & corporate websites development  
+- UI/UX improvements  
+- HTML / CSS / JavaScript  
+- Design system fundamentals  
 
 ---
+
+### LuvaGames (United Kingdom)
+**React Developer**  
+*2021 — 2024*  
+- SPA development & frontend architecture  
+- Performance optimization  
+- Component libraries  
+- Cross-functional collaboration  
+
+---
+
+### Crypto Hub (Poland)
+**Product Designer & React Developer**  
+*2024 — Dec 2025*  
+- Complex data-heavy crypto dashboards  
+- UX consistency across products  
+- Scalable frontend architecture  
+- Design systems & visual identity  
+
+---
+
+### Freelance
+**Fullstack Developer & Product Designer**  
+*2026 — Present*  
+- Full-cycle development (Web / Desktop / Mobile)  
+- Mobile apps (iOS / Android)  
+- Telegram / MAX bots & mini apps  
+- Backend & API architecture  
+- UX/UI design & product development 
 
 ### 🧠 Tech Stack
 
@@ -60,6 +91,15 @@ Working remotely worldwide 🌍
   <img src="https://img.shields.io/badge/Express-black?logo=express"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma"/>
+  <img src="https://img.shields.io/badge/REST_API-grey"/>
+  <img src="https://img.shields.io/badge/WebSockets-black"/>
+</div>
+
+**DevOps & Tools**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis"/>
 </div>
 
 **Design**
@@ -84,9 +124,8 @@ Working remotely worldwide 🌍
 
 ### 🎮 Currently Working On
 
-- **SSas CRM for Small Businesses** — sales automation, real-time analytics, modular billing & payment integrations
-- **CryptoAppHub** — scalable mining + profitability tracking, wallet security and UX optimization
-- **UI Component Library** — unified ecosystem to improve consistency and cut development time
+- **SaaS CRM for Small Businesses** — scalable platform with sales automation, real-time analytics, modular billing and payment integrations  
+- **HeyGen AI Mini App** — interactive mini application with AI video/avatar integration and real-time user interaction  
 
 ---
 
@@ -98,16 +137,19 @@ Working remotely worldwide 🌍
 
 ### 🎯 Interests
 
-- UI systems & atomic design
-- Accessibility
-- Complex dashboards
-- Crypto web tooling
-- DX improvements
+- Design systems & scalable UI architecture  
+- Accessibility and inclusive product design  
+- Complex data-driven interfaces and dashboards  
+- Developer Experience (DX) and tooling optimization  
 
 ---
 
-### 🤙 Contacts
-- **Telegram:** @miusskii
+## 🤙 Let’s Work Together
+
+I’m open to freelance projects, product development and long-term collaboration.
+
+- Telegram: @miusskii
+- Available worldwide 🌍
 
 ---
 
