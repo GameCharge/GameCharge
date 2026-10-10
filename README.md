@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ3ODBpZTZ0Y2xrdmttbGpmZ29vdmVycThldXRyenJ3a3c4Y3FzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vd8V1PpBe1Jr3SNP1d/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF1aGl6MzhqbW83Nzl4bTRuc3ZlNGJkeTcwbGFhNnRzMmRqc3NiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDcOYN5Bej2HOxygQl/giphy.gif)" width="480"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF1aGl6MzhqbW83Nzl4bTRuc3ZlNGJkeTcwbGFhNnRzMmRqc3NiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDcOYN5Bej2HOxygQl/giphy.gif" width="480"/>
 </p>
 
 <h1 align="center">Hi, I'm Evgenii 👋</h1>
